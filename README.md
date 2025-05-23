@@ -1,2 +1,2 @@
 # product_catalog
-Spring boot project to handle a catalog of products
+Spring boot API project to handle a catalog of products
